@@ -1,0 +1,26 @@
+*  .gitconfig
+
+git-->sourse code control ...  SCM(source control management)
+
+* git init
+
+git status
+ git add
+git log
+git checkout
+
+
+.gitignore
+.env
+.editorconfig
+
+test.http----GET .....
+send request ....
+
+
+package manager
+
+namespace
+
+      
+redbook--->git documentation

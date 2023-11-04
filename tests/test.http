@@ -1,0 +1,3 @@
+GET http://lab_01.honours.test/testphp.php
+
+GET http://lab_01.honours.test/test.html
